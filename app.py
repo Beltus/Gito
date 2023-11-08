@@ -7,7 +7,7 @@ def greet(name):
         return "Hello " + name + "!"
     
     else:
-        return "String is expected"
+        return "String is expected. Try again"
 
 
 def isEven(n1, n2):
